@@ -60,6 +60,9 @@ ip -> {host}
 port -> {port}
 
 process id -> {str(y)}""")
+                        f = open(logfile,"a")
+                        f = write("INFO:\nip: "+host+"\nport: "+port+"\nPID: "+str(y)+"\n\n")
+                        f.close()
     except KeyboardInterrupt:
         print("\nCONTROL-C detected, exiting")
         exit()
