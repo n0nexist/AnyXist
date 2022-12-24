@@ -5,9 +5,9 @@
 4 - AnyXist will automatically grab their ip<br>
 
 # Please read
-If AnyXist says that the pulled ip is probably your own local ip, it is.
-If the pulled ip has 443 as source port, its AnyDesk's server ip
-If it's not 443 port and AnyXist doesen't say anything, it's your target's ip
+If AnyXist says that the pulled ip is probably your own local ip, it is.<br>
+If the pulled ip has 443 as source port, its AnyDesk's server ip<br>
+If it's not 443 port and AnyXist doesen't say anything, it's your target's ip<br>
 
 # Screenshot
 ![alt-text](https://github.com/n0nexist/AnyXist/blob/main/screenshot.PNG?raw=true)
